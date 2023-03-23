@@ -1,2 +1,2 @@
-# Predicciones-de-Ventas
-Predicción de ventas de productos
+# Bootcamp_Data_Science
+Ejercicios realizados
